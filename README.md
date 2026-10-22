@@ -19,31 +19,27 @@
 
 ## 🛠️ Tecnologias
 
-**Linguagens**
+<h2 align="center">🛠️ Tecnologias</h2>
 
-<p>
+<p align="center"><b>Linguagens</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts" />
 </p>
 
-**Front-end**
-
-<p>
+<p align="center"><b>Front-end</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,vite" />
 </p>
 
-**Banco de dados**
-
-<p>
+<p align="center"><b>Banco de dados</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**Ferramentas**
-
-<p>
+<p align="center"><b>Ferramentas</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
 
 ## 📊 Estatísticas
 
