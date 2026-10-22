@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou o Matheus Lacerda👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Dev+Python+%26+TypeScript;Criando+projetos+com+React;Sempre+aprendendo+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas<br>
   Construindo projetos com Python, TypeScript e React 
 </p>
