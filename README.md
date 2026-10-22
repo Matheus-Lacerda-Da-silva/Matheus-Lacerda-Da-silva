@@ -31,7 +31,7 @@
 
 <p align="center"><b>Banco de dados</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 <p align="center"><b>Ferramentas</b></p>
@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## 📊 Estatísticas
+<h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lacerda-Da-silva&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -47,7 +47,7 @@
 </p>
 
 ---
-## 🐍 Minha jornada de commits
+<h2 align="center">🐍 Minha jornada de commits</h2>
 
 <p align="center">
   <picture>
@@ -58,8 +58,10 @@
 </p>
 ---
 
-## 🌱 Agora estou
+<h2 align="center">🌱 Agora estou</h2>
 
-- 💰 Construindo o **My-Finance-control**, um sistema de controle de gastos com alertas
-- 📚 Aprofundando em TypeScript e React
-- 🎯 Montando um portfólio com projetos práticos
+<p align="center">
+  💰 Construindo o <b>Finance-control</b>, um sistema de controle de gastos com alertas<br>
+  📚 Aprofundando em TypeScript e React<br>
+  🎯 Montando um portfólio com projetos práticos
+</p>
