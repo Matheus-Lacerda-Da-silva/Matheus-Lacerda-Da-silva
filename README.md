@@ -41,16 +41,12 @@
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Lacerda-Da-silva&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lacerda-Da-silva&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Lacerda-Da-silva&show_icons=true&theme=tokyonight&hide_border=true&card_width=420&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lacerda-Da-silva&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
+</p>
+
+---
 ---
 <h2 align="center">🐍 Minha jornada de commits</h2>
 
