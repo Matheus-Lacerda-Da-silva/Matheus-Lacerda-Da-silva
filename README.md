@@ -62,7 +62,7 @@
 <h2 align="center">🌱 Agora estou</h2>
 
 <p align="center">
-  💰 Construindo o <b>Finance-control</b>, um sistema de controle de gastos com alertas<br>
+  💰 Construindo o <b>Your-Finance-control</b>, um sistema de controle de gastos com alertas<br>
   📚 Aprofundando em TypeScript e React<br>
   🎯 Montando um portfólio com projetos práticos
 </p>
